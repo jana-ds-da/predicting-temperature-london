@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/0/54f2112468a9417db47db12f38cc9e3d/artifacts
+end_time: 1789746750674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54f2112468a9417db47db12f38cc9e3d
+run_name: awesome-hen-877
+run_uuid: 54f2112468a9417db47db12f38cc9e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789746747561
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/0/d569dfa53cf247bfb44d037b21005e6e/artifacts
+end_time: 1789748791414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d569dfa53cf247bfb44d037b21005e6e
+run_name: nimble-gull-398
+run_uuid: d569dfa53cf247bfb44d037b21005e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789748788150
+status: 3
+tags: []
+user_id: repl

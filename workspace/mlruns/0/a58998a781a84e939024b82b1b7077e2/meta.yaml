@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/0/a58998a781a84e939024b82b1b7077e2/artifacts
+end_time: 1789748557292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a58998a781a84e939024b82b1b7077e2
+run_name: thoughtful-ox-921
+run_uuid: a58998a781a84e939024b82b1b7077e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789748362128
+status: 3
+tags: []
+user_id: repl

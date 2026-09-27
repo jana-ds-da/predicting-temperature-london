@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/0/5790d6ca687f4840930057380aec7051/artifacts
+end_time: 1789746341487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5790d6ca687f4840930057380aec7051
+run_name: masked-fish-245
+run_uuid: 5790d6ca687f4840930057380aec7051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789746338397
+status: 3
+tags: []
+user_id: repl
